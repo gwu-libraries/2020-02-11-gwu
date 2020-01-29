@@ -318,4 +318,3 @@ please preview your site before committing, and make sure to run
 {% elsif site.carpentry == "lc" %}
 {% include lc/setup.html %}
 {% endif %}
-You do NOT neet to install SQLite.
