@@ -147,12 +147,11 @@ special instructions.
   <li>Accessible restrooms are available.</li>
 </ul>
 <p>
+  GW has an institutional commitment to ensuring that all of our programs and events are accessible for all individuals.
   Materials will be provided in advance of the workshop and
-  large-print handouts are available if needed by notifying the
-  organizers in advance.  If we can help making learning easier for
-  you (e.g. sign-language interpreters, lactation facilities) please
-  get in touch (using contact details below) and we will
-  attempt to provide them.
+  large-print handouts are available.  If you require any accommodations
+  (such as sign-language interpreters or lactation facilities) to participate in this event,
+  please contact libraryevents@gwu.edu at least 72 business hours (3 business days) prior to the event.
 </p>
 
 {% comment %}
