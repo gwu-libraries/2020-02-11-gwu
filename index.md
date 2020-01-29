@@ -151,7 +151,7 @@ special instructions.
   Materials will be provided in advance of the workshop and
   large-print handouts are available.  If you require any accommodations
   (such as sign-language interpreters or lactation facilities) to participate in this event,
-  please contact libraryevents@gwu.edu at least 72 business hours (3 business days) prior to the event.
+  please contact <a href="mailto:libraryevents@gwu.edu">libraryevents@gwu.edu</a> at least 72 business hours (3 business days) prior to the event.
 </p>
 
 {% comment %}
